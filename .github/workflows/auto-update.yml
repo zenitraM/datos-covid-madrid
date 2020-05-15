@@ -1,3 +1,5 @@
+name: Automatic update
+
 jobs:
   auto_update:
     name: Automatic update
