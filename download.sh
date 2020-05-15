@@ -7,3 +7,5 @@ URLS=("https://datos.comunidad.madrid/catalogo/dataset/7da43feb-8d4d-47e0-abd5-3
 for url in "${URLS[@]}"; do
   curl -O -k $url;
 done
+
+git diff --quiet && git diff --staged --quiet || (git commit -am 'Actualizacion datos')
