@@ -1,0 +1,22 @@
+name: Automatic update
+
+jobs:
+  auto_update:
+    name: Automatic update
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Automatic update"
+        ./download.sh
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+on:
+  push:
+  pull_request:
+  schedule:
+  - cron:  '*/5 * * * *'
