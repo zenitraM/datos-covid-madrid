@@ -5,7 +5,10 @@ URLS=("https://datos.comunidad.madrid/catalogo/dataset/b3d55e40-8263-4c0b-827d-2
 "https://datos.comunidad.madrid/catalogo/dataset/7da43feb-8d4d-47e0-abd5-3d022d29d09e/resource/ead67556-7e7d-45ee-9ae5-68765e1ebf7a/download/covid19_tia_muni_y_distritos.json")
 
 for url in "${URLS[@]}"; do
+  echo "Downloading $url:"
   curl -O -k $url;
 done
+
+sha256sum *csv *json
 
 git diff --quiet && git diff --staged --quiet || (git commit -am 'Actualizacion datos')
