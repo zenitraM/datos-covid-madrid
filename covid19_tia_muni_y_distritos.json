@@ -3,128 +3,128 @@
     {
       "municipio_distrito": "Madrid-Retiro",
       "codigo_geometria": "079603",
-      "tasa_incidencia_acumulada_ultimos_14dias": 51.124315897986,
+      "tasa_incidencia_acumulada_ultimos_14dias": 49.4481088193635,
       "tasa_incidencia_acumulada_total": 1223.63116739442,
       "casos_confirmados_totales": 1460,
-      "casos_confirmados_ultimos_14dias": 61,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 59,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Salamanca",
       "codigo_geometria": "079604",
-      "tasa_incidencia_acumulada_ultimos_14dias": 36.2755297596233,
-      "tasa_incidencia_acumulada_total": 1114.27476318239,
-      "casos_confirmados_totales": 1628,
-      "casos_confirmados_ultimos_14dias": 53,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 34.9066418441658,
+      "tasa_incidencia_acumulada_total": 1114.95920714012,
+      "casos_confirmados_totales": 1629,
+      "casos_confirmados_ultimos_14dias": 51,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Centro",
       "codigo_geometria": "079601",
-      "tasa_incidencia_acumulada_ultimos_14dias": 24.4719981015662,
+      "tasa_incidencia_acumulada_ultimos_14dias": 22.2472710014238,
       "tasa_incidencia_acumulada_total": 851.328903654485,
       "casos_confirmados_totales": 1148,
-      "casos_confirmados_ultimos_14dias": 33,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 30,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Arganzuela",
       "codigo_geometria": "079602",
-      "tasa_incidencia_acumulada_ultimos_14dias": 25.357112670104,
-      "tasa_incidencia_acumulada_total": 1016.88523630878,
-      "casos_confirmados_totales": 1564,
-      "casos_confirmados_ultimos_14dias": 39,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 24.0567479177909,
+      "tasa_incidencia_acumulada_total": 1017.53541868494,
+      "casos_confirmados_totales": 1565,
+      "casos_confirmados_ultimos_14dias": 37,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Chamartín",
       "codigo_geometria": "079605",
-      "tasa_incidencia_acumulada_ultimos_14dias": 21.9405001062743,
+      "tasa_incidencia_acumulada_ultimos_14dias": 19.19793759299,
       "tasa_incidencia_acumulada_total": 1107.30961473853,
       "casos_confirmados_totales": 1615,
-      "casos_confirmados_ultimos_14dias": 32,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 28,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Tetuán",
       "codigo_geometria": "079606",
-      "tasa_incidencia_acumulada_ultimos_14dias": 24.6799516526075,
-      "tasa_incidencia_acumulada_total": 1331.45175069452,
-      "casos_confirmados_totales": 2104,
-      "casos_confirmados_ultimos_14dias": 39,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 24.0471323794638,
+      "tasa_incidencia_acumulada_total": 1332.71738924081,
+      "casos_confirmados_totales": 2106,
+      "casos_confirmados_ultimos_14dias": 38,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Chamberí",
       "codigo_geometria": "079607",
-      "tasa_incidencia_acumulada_ultimos_14dias": 38.7432827039941,
-      "tasa_incidencia_acumulada_total": 1104.90102526206,
-      "casos_confirmados_totales": 1540,
-      "casos_confirmados_ultimos_14dias": 54,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 37.3083463075499,
+      "tasa_incidencia_acumulada_total": 1104.18355706383,
+      "casos_confirmados_totales": 1539,
+      "casos_confirmados_ultimos_14dias": 52,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Fuencarral-El Pardo",
       "codigo_geometria": "079608",
-      "tasa_incidencia_acumulada_ultimos_14dias": 31.3085765169412,
-      "tasa_incidencia_acumulada_total": 1201.92405433868,
-      "casos_confirmados_totales": 2956,
-      "casos_confirmados_ultimos_14dias": 77,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 30.9019716271108,
+      "tasa_incidencia_acumulada_total": 1202.33065922851,
+      "casos_confirmados_totales": 2957,
+      "casos_confirmados_ultimos_14dias": 76,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Moncloa-Aravaca",
       "codigo_geometria": "079609",
-      "tasa_incidencia_acumulada_ultimos_14dias": 46.8937103810951,
+      "tasa_incidencia_acumulada_ultimos_14dias": 41.8693842688349,
       "tasa_incidencia_acumulada_total": 1180.71663638115,
       "casos_confirmados_totales": 1410,
-      "casos_confirmados_ultimos_14dias": 56,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 50,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Latina",
       "codigo_geometria": "079610",
-      "tasa_incidencia_acumulada_ultimos_14dias": 34.4222518869271,
-      "tasa_incidencia_acumulada_total": 1151.04652041407,
-      "casos_confirmados_totales": 2742,
-      "casos_confirmados_ultimos_14dias": 82,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 34.0024683273304,
+      "tasa_incidencia_acumulada_total": 1151.46630397367,
+      "casos_confirmados_totales": 2743,
+      "casos_confirmados_ultimos_14dias": 81,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Carabanchel",
       "codigo_geometria": "079611",
-      "tasa_incidencia_acumulada_ultimos_14dias": 34.7690034334391,
+      "tasa_incidencia_acumulada_ultimos_14dias": 33.1885941864646,
       "tasa_incidencia_acumulada_total": 1054.13296773199,
       "casos_confirmados_totales": 2668,
-      "casos_confirmados_ultimos_14dias": 88,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 84,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Usera",
       "codigo_geometria": "079612",
-      "tasa_incidencia_acumulada_ultimos_14dias": 25.046335721084,
-      "tasa_incidencia_acumulada_total": 986.82562741071,
-      "casos_confirmados_totales": 1379,
-      "casos_confirmados_ultimos_14dias": 35,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 24.330726129053,
+      "tasa_incidencia_acumulada_total": 986.110017818679,
+      "casos_confirmados_totales": 1378,
+      "casos_confirmados_ultimos_14dias": 34,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Puente de Vallecas",
       "codigo_geometria": "079613",
-      "tasa_incidencia_acumulada_ultimos_14dias": 44.2822653785069,
+      "tasa_incidencia_acumulada_ultimos_14dias": 41.3017282857228,
       "tasa_incidencia_acumulada_total": 1290.57256117552,
       "casos_confirmados_totales": 3031,
-      "casos_confirmados_ultimos_14dias": 104,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 97,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-San Blas - Canillejas",
       "codigo_geometria": "079620",
-      "tasa_incidencia_acumulada_ultimos_14dias": 29.7201249509934,
-      "tasa_incidencia_acumulada_total": 916.89747189235,
-      "casos_confirmados_totales": 1450,
-      "casos_confirmados_ultimos_14dias": 47,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 29.0877818669297,
+      "tasa_incidencia_acumulada_total": 918.162158060477,
+      "casos_confirmados_totales": 1452,
+      "casos_confirmados_ultimos_14dias": 46,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Barajas",
@@ -133,79 +133,79 @@
       "tasa_incidencia_acumulada_total": 862.192256614567,
       "casos_confirmados_totales": 422,
       "casos_confirmados_ultimos_14dias": 6,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Moratalaz",
       "codigo_geometria": "079614",
-      "tasa_incidencia_acumulada_ultimos_14dias": 47.5838003595221,
-      "tasa_incidencia_acumulada_total": 1397.90631278418,
-      "casos_confirmados_totales": 1322,
-      "casos_confirmados_ultimos_14dias": 45,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 45.4689647879877,
+      "tasa_incidencia_acumulada_total": 1396.84889499841,
+      "casos_confirmados_totales": 1321,
+      "casos_confirmados_ultimos_14dias": 43,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Ciudad Lineal",
       "codigo_geometria": "079615",
-      "tasa_incidencia_acumulada_ultimos_14dias": 24.9671727913299,
-      "tasa_incidencia_acumulada_total": 1009.3210778421,
-      "casos_confirmados_totales": 2183,
-      "casos_confirmados_ultimos_14dias": 54,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 24.0424626879473,
+      "tasa_incidencia_acumulada_total": 1011.17049804886,
+      "casos_confirmados_totales": 2187,
+      "casos_confirmados_ultimos_14dias": 52,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Hortaleza",
       "codigo_geometria": "079616",
       "tasa_incidencia_acumulada_ultimos_14dias": 21.786839686057,
-      "tasa_incidencia_acumulada_total": 918.23558481723,
-      "casos_confirmados_totales": 1728,
+      "tasa_incidencia_acumulada_total": 917.704198483423,
+      "casos_confirmados_totales": 1727,
       "casos_confirmados_ultimos_14dias": 41,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Villaverde",
       "codigo_geometria": "079617",
-      "tasa_incidencia_acumulada_ultimos_14dias": 30.8836759631007,
-      "tasa_incidencia_acumulada_total": 945.980422434977,
-      "casos_confirmados_totales": 1409,
-      "casos_confirmados_ultimos_14dias": 46,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 30.2122917030333,
+      "tasa_incidencia_acumulada_total": 945.309038174909,
+      "casos_confirmados_totales": 1408,
+      "casos_confirmados_ultimos_14dias": 45,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Villa de Vallecas",
       "codigo_geometria": "079618",
-      "tasa_incidencia_acumulada_ultimos_14dias": 31.7129524758755,
-      "tasa_incidencia_acumulada_total": 1094.54990259593,
-      "casos_confirmados_totales": 1208,
-      "casos_confirmados_ultimos_14dias": 35,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 30.8068681194219,
+      "tasa_incidencia_acumulada_total": 1095.45598695239,
+      "casos_confirmados_totales": 1209,
+      "casos_confirmados_ultimos_14dias": 34,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madrid-Vicálvaro",
       "codigo_geometria": "079619",
-      "tasa_incidencia_acumulada_ultimos_14dias": 70.7439208777795,
+      "tasa_incidencia_acumulada_ultimos_14dias": 69.3567851742936,
       "tasa_incidencia_acumulada_total": 1129.1284626375,
       "casos_confirmados_totales": 814,
-      "casos_confirmados_ultimos_14dias": 51,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 50,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Pozuelo de Alarcón",
       "codigo_geometria": "1150",
-      "tasa_incidencia_acumulada_ultimos_14dias": 46.2845108884312,
-      "tasa_incidencia_acumulada_total": 917.590428363148,
-      "casos_confirmados_totales": 793,
-      "casos_confirmados_ultimos_14dias": 40,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 27.7707065330587,
+      "tasa_incidencia_acumulada_total": 899.076624007776,
+      "casos_confirmados_totales": 777,
+      "casos_confirmados_ultimos_14dias": 24,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Alcorcón",
       "codigo_geometria": "0072",
-      "tasa_incidencia_acumulada_ultimos_14dias": 34.6012644123063,
-      "tasa_incidencia_acumulada_total": 1077.33089365096,
-      "casos_confirmados_totales": 1837,
-      "casos_confirmados_ultimos_14dias": 59,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 33.42834019494,
+      "tasa_incidencia_acumulada_total": 1076.74443154228,
+      "casos_confirmados_totales": 1836,
+      "casos_confirmados_ultimos_14dias": 57,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Navalcarnero",
@@ -213,7 +213,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 13.6528090654652,
       "tasa_incidencia_acumulada_total": 590.483992081371,
       "casos_confirmados_totales": 173,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "San Agustín del Guadalix",
@@ -221,16 +221,16 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 14.9488003587712,
       "tasa_incidencia_acumulada_total": 463.412811121907,
       "casos_confirmados_totales": 62,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Las Rozas de Madrid",
       "codigo_geometria": "1277",
-      "tasa_incidencia_acumulada_ultimos_14dias": 29.2232867848122,
-      "tasa_incidencia_acumulada_total": 833.907362180892,
-      "casos_confirmados_totales": 799,
-      "casos_confirmados_ultimos_14dias": 28,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 22.9611539023525,
+      "tasa_incidencia_acumulada_total": 827.645229298432,
+      "casos_confirmados_totales": 793,
+      "casos_confirmados_ultimos_14dias": 22,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Moraleja de Enmedio",
@@ -238,7 +238,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 486.760124610592,
       "casos_confirmados_totales": 25,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valdaracete",
@@ -246,37 +246,37 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 164.203612479475,
       "tasa_incidencia_acumulada_total": 985.221674876847,
       "casos_confirmados_totales": 6,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Pozuelo del Rey",
       "codigo_geometria": "1163",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 174.3679163034,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Puebla de la Sierra",
       "codigo_geometria": "1185",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Perales de Tajuña",
       "codigo_geometria": "1104",
-      "tasa_incidencia_acumulada_ultimos_14dias": 68.1431005110733,
+      "tasa_incidencia_acumulada_ultimos_14dias": 34.0715502555366,
       "tasa_incidencia_acumulada_total": 340.715502555366,
       "casos_confirmados_totales": 10,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valdemorillo",
       "codigo_geometria": "1603",
-      "tasa_incidencia_acumulada_ultimos_14dias": 31.9539862597859,
-      "tasa_incidencia_acumulada_total": 399.424828247324,
-      "casos_confirmados_totales": 50,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 23.9654896948394,
+      "tasa_incidencia_acumulada_total": 391.436331682377,
+      "casos_confirmados_totales": 49,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Navalafuente",
@@ -284,24 +284,24 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 483.091787439613,
       "casos_confirmados_totales": 7,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Velilla de San Antonio",
       "codigo_geometria": "1678",
-      "tasa_incidencia_acumulada_ultimos_14dias": 24.51781627983,
+      "tasa_incidencia_acumulada_ultimos_14dias": 16.34521085322,
       "tasa_incidencia_acumulada_total": 596.60019614253,
       "casos_confirmados_totales": 73,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villanueva de la Cañada",
       "codigo_geometria": "1760",
-      "tasa_incidencia_acumulada_ultimos_14dias": 46.6309162975052,
-      "tasa_incidencia_acumulada_total": 699.463744462579,
-      "casos_confirmados_totales": 150,
-      "casos_confirmados_ultimos_14dias": 10,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 41.9678246677547,
+      "tasa_incidencia_acumulada_total": 694.800652832828,
+      "casos_confirmados_totales": 149,
+      "casos_confirmados_ultimos_14dias": 9,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villanueva del Pardillo",
@@ -309,7 +309,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 23.2828870779977,
       "tasa_incidencia_acumulada_total": 599.53434225844,
       "casos_confirmados_totales": 103,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Nuevo Baztán",
@@ -317,7 +317,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 446.144040790312,
       "casos_confirmados_totales": 28,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villamantilla",
@@ -325,7 +325,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 485.773768216516,
       "casos_confirmados_totales": 7,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villamanta",
@@ -333,7 +333,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 469.667318982387,
       "casos_confirmados_totales": 12,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Cabanillas de la Sierra",
@@ -341,40 +341,39 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1322.75132275132,
       "casos_confirmados_totales": 10,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Cenicientos",
       "codigo_geometria": "0376",
-      "tasa_incidencia_acumulada_ultimos_14dias": 147.56517461879,
+      "tasa_incidencia_acumulada_ultimos_14dias": 98.3767830791933,
       "tasa_incidencia_acumulada_total": 1426.4633546483,
       "casos_confirmados_totales": 29,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Puentes Viejas",
       "codigo_geometria": "9020",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 294.550810014728,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Aranjuez",
       "codigo_geometria": "0133",
-      "tasa_incidencia_acumulada_ultimos_14dias": 10.0659318536414,
-      "tasa_incidencia_acumulada_total": 751.589578405221,
-      "casos_confirmados_totales": 448,
-      "casos_confirmados_ultimos_14dias": 6,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 11.7435871625816,
+      "tasa_incidencia_acumulada_total": 753.267233714161,
+      "casos_confirmados_totales": 449,
+      "casos_confirmados_ultimos_14dias": 7,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Cercedilla",
       "codigo_geometria": "0382",
-      "tasa_incidencia_acumulada_ultimos_14dias": 113.862795331625,
-      "tasa_incidencia_acumulada_total": 1679.47623114147,
-      "casos_confirmados_totales": 118,
-      "casos_confirmados_ultimos_14dias": 8,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 71.1642470822659,
+      "tasa_incidencia_acumulada_total": 1579.8462852263,
+      "casos_confirmados_totales": 111,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Santorcaz",
@@ -382,7 +381,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 790.067720090294,
       "casos_confirmados_totales": 7,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Coslada",
@@ -391,7 +390,7 @@
       "tasa_incidencia_acumulada_total": 988.231836494777,
       "casos_confirmados_totales": 807,
       "casos_confirmados_ultimos_14dias": 25,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Morata de Tajuña",
@@ -399,28 +398,28 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 39.0472471690746,
       "tasa_incidencia_acumulada_total": 1275.5434075231,
       "casos_confirmados_totales": 98,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Robregordo",
       "codigo_geometria": "1261",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Navarredonda y San Mamés",
       "codigo_geometria": "0973",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1550.38759689922,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Venturada",
       "codigo_geometria": "1697",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 138.69625520111,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Navacerrada",
@@ -428,14 +427,14 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 605.652759084791,
       "casos_confirmados_totales": 18,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Montejo de la Sierra",
       "codigo_geometria": "0881",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 283.28611898017,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Fresno de Torote",
@@ -443,21 +442,21 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 630.346690679874,
       "casos_confirmados_totales": 14,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Pinilla del Valle",
       "codigo_geometria": "1126",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valdemaqueda",
       "codigo_geometria": "1599",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 640.204865556978,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Navas del Rey",
@@ -466,14 +465,14 @@
       "tasa_incidencia_acumulada_total": 2673.06374228924,
       "casos_confirmados_totales": 78,
       "casos_confirmados_ultimos_14dias": 15,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Olmeda de las Fuentes",
       "codigo_geometria": "1013",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 862.068965517241,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Bustarviejo",
@@ -481,54 +480,54 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 279.66440271674,
       "casos_confirmados_totales": 7,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Becerril de la Sierra",
       "codigo_geometria": "0186",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
-      "tasa_incidencia_acumulada_total": 560.02800140007,
-      "casos_confirmados_totales": 32,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_total": 542.527126356318,
+      "casos_confirmados_totales": 31,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Fuenlabrada",
       "codigo_geometria": "0587",
       "tasa_incidencia_acumulada_ultimos_14dias": 21.6830149716056,
-      "tasa_incidencia_acumulada_total": 799.173980382034,
-      "casos_confirmados_totales": 1548,
+      "tasa_incidencia_acumulada_total": 800.206504904491,
+      "casos_confirmados_totales": 1550,
       "casos_confirmados_ultimos_14dias": 42,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Garganta de los Montes",
       "codigo_geometria": "0626",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 288.184438040346,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Pinto",
       "codigo_geometria": "1132",
-      "tasa_incidencia_acumulada_ultimos_14dias": 38.0763812207288,
+      "tasa_incidencia_acumulada_ultimos_14dias": 36.1725621596923,
       "tasa_incidencia_acumulada_total": 534.973156151239,
       "casos_confirmados_totales": 281,
-      "casos_confirmados_ultimos_14dias": 20,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 19,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Alameda del Valle",
       "codigo_geometria": "0035",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Berzosa del Lozoya",
       "codigo_geometria": "0203",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 975.609756097561,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Los Santos de la Humosa",
@@ -536,7 +535,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 772.200772200772,
       "casos_confirmados_totales": 20,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "El Álamo",
@@ -544,7 +543,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 31.6789862724393,
       "tasa_incidencia_acumulada_total": 855.332629355861,
       "casos_confirmados_totales": 81,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Pelayos de la Presa",
@@ -552,7 +551,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 38.5208012326656,
       "tasa_incidencia_acumulada_total": 693.374422187982,
       "casos_confirmados_totales": 18,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Galapagar",
@@ -561,7 +560,7 @@
       "tasa_incidencia_acumulada_total": 812.044336435303,
       "casos_confirmados_totales": 274,
       "casos_confirmados_ultimos_14dias": 25,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Griñón",
@@ -569,14 +568,14 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 29.0725845527667,
       "tasa_incidencia_acumulada_total": 823.723228995058,
       "casos_confirmados_totales": 85,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Gargantilla del Lozoya y Pinilla de Buitrago",
       "codigo_geometria": "0632",
-      "tasa_incidencia_acumulada_ultimos_14dias": 316.455696202532,
-      "tasa_incidencia_acumulada_total": 1265.82278481013,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 949.367088607595,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Aldea del Fresno",
@@ -584,7 +583,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 105.708245243129,
       "tasa_incidencia_acumulada_total": 2008.45665961945,
       "casos_confirmados_totales": 57,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Carabaña",
@@ -592,7 +591,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 696.517412935323,
       "casos_confirmados_totales": 14,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Talamanca de Jarama",
@@ -600,7 +599,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 751.87969924812,
       "casos_confirmados_totales": 29,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Chapinería",
@@ -608,7 +607,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 42.9553264604811,
       "tasa_incidencia_acumulada_total": 300.687285223368,
       "casos_confirmados_totales": 7,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Ciempozuelos",
@@ -617,7 +616,7 @@
       "tasa_incidencia_acumulada_total": 971.860767729343,
       "casos_confirmados_totales": 239,
       "casos_confirmados_ultimos_14dias": 15,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Ajalvir",
@@ -625,30 +624,30 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 84.8896434634975,
       "tasa_incidencia_acumulada_total": 382.003395585739,
       "casos_confirmados_totales": 18,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "San Lorenzo de El Escorial",
       "codigo_geometria": "1317",
-      "tasa_incidencia_acumulada_ultimos_14dias": 27.2197724427024,
-      "tasa_incidencia_acumulada_total": 778.485491861288,
-      "casos_confirmados_totales": 143,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 21.7758179541619,
+      "tasa_incidencia_acumulada_total": 773.041537372747,
+      "casos_confirmados_totales": 142,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Gascones",
       "codigo_geometria": "0647",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "San Martín de la Vega",
       "codigo_geometria": "1322",
-      "tasa_incidencia_acumulada_ultimos_14dias": 15.6494522691706,
-      "tasa_incidencia_acumulada_total": 469.483568075117,
-      "casos_confirmados_totales": 90,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 10.4329681794471,
+      "tasa_incidencia_acumulada_total": 479.916536254564,
+      "casos_confirmados_totales": 92,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Móstoles",
@@ -657,23 +656,23 @@
       "tasa_incidencia_acumulada_total": 1004.85696802815,
       "casos_confirmados_totales": 2102,
       "casos_confirmados_ultimos_14dias": 156,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Leganés",
       "codigo_geometria": "0745",
-      "tasa_incidencia_acumulada_ultimos_14dias": 36.8690779043616,
+      "tasa_incidencia_acumulada_ultimos_14dias": 34.2355723397644,
       "tasa_incidencia_acumulada_total": 1569.56931649997,
       "casos_confirmados_totales": 2980,
-      "casos_confirmados_ultimos_14dias": 70,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 65,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Braojos",
       "codigo_geometria": "0246",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 975.609756097561,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Cubas de la Sagra",
@@ -681,15 +680,15 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 31.1866521128957,
       "tasa_incidencia_acumulada_total": 452.206455636987,
       "casos_confirmados_totales": 29,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Algete",
       "codigo_geometria": "0091",
-      "tasa_incidencia_acumulada_ultimos_14dias": 9.70355635340352,
+      "tasa_incidencia_acumulada_ultimos_14dias": 4.85177817670176,
       "tasa_incidencia_acumulada_total": 528.843821260492,
       "casos_confirmados_totales": 109,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Mejorada del Campo",
@@ -697,7 +696,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 8.59328005499699,
       "tasa_incidencia_acumulada_total": 747.615364784738,
       "casos_confirmados_totales": 174,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Loeches",
@@ -705,7 +704,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 11.3752701626664,
       "tasa_incidencia_acumulada_total": 557.388237970652,
       "casos_confirmados_totales": 49,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Parla",
@@ -714,7 +713,7 @@
       "tasa_incidencia_acumulada_total": 579.447296424948,
       "casos_confirmados_totales": 754,
       "casos_confirmados_ultimos_14dias": 16,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Fuentidueña de Tajo",
@@ -722,7 +721,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 48.7092060399415,
       "tasa_incidencia_acumulada_total": 876.765708718948,
       "casos_confirmados_totales": 18,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Ambite",
@@ -730,7 +729,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1182.43243243243,
       "casos_confirmados_totales": 7,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Torremocha de Jarama",
@@ -738,7 +737,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 785.083415112856,
       "casos_confirmados_totales": 8,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Anchuelo",
@@ -746,15 +745,15 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 550.747442958301,
       "casos_confirmados_totales": 7,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Los Molinos",
       "codigo_geometria": "0875",
-      "tasa_incidencia_acumulada_ultimos_14dias": 91.1369332421964,
-      "tasa_incidencia_acumulada_total": 1298.7012987013,
-      "casos_confirmados_totales": 57,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 45.5684666210982,
+      "tasa_incidencia_acumulada_total": 1184.78013214855,
+      "casos_confirmados_totales": 52,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Soto del Real",
@@ -762,7 +761,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 738.720309126037,
       "casos_confirmados_totales": 65,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valverde de Alcalá",
@@ -770,7 +769,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1720.43010752688,
       "casos_confirmados_totales": 8,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Fuente el Saz de Jarama",
@@ -778,14 +777,14 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 29.868578255675,
       "tasa_incidencia_acumulada_total": 507.765830346475,
       "casos_confirmados_totales": 34,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Horcajo de la Sierra-Aoslos",
       "codigo_geometria": "0702",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 2758.62068965517,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valdeolmos-Alalpardo",
@@ -793,7 +792,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 265.957446808511,
       "casos_confirmados_totales": 11,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Campo Real",
@@ -801,7 +800,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 48.3091787439614,
       "tasa_incidencia_acumulada_total": 434.782608695652,
       "casos_confirmados_totales": 27,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valdeavero",
@@ -809,14 +808,14 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 514.800514800515,
       "casos_confirmados_totales": 8,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villamanrique de Tajo",
       "codigo_geometria": "1739",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 568.990042674253,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Cobeña",
@@ -825,7 +824,7 @@
       "tasa_incidencia_acumulada_total": 996.230479267636,
       "casos_confirmados_totales": 74,
       "casos_confirmados_ultimos_14dias": 9,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Fresnedillas de la Oliva",
@@ -833,7 +832,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 572.519083969466,
       "casos_confirmados_totales": 9,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valdilecha",
@@ -841,7 +840,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 613.706102966246,
       "casos_confirmados_totales": 18,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "El Berrueco",
@@ -849,56 +848,56 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1052.63157894737,
       "casos_confirmados_totales": 8,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Pezuela de las Torres",
       "codigo_geometria": "1111",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 237.529691211401,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villar del Olmo",
       "codigo_geometria": "1795",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 198.906016907011,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Guadarrama",
       "codigo_geometria": "0685",
-      "tasa_incidencia_acumulada_ultimos_14dias": 124.750499001996,
-      "tasa_incidencia_acumulada_total": 1378.49301397206,
-      "casos_confirmados_totales": 221,
-      "casos_confirmados_ultimos_14dias": 20,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 99.8003992015968,
+      "tasa_incidencia_acumulada_total": 1334.83033932136,
+      "casos_confirmados_totales": 214,
+      "casos_confirmados_ultimos_14dias": 16,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "San Martín de Valdeiglesias",
       "codigo_geometria": "1338",
-      "tasa_incidencia_acumulada_ultimos_14dias": 23.6434566733656,
-      "tasa_incidencia_acumulada_total": 1028.49036529141,
-      "casos_confirmados_totales": 87,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 35.4651850100485,
+      "tasa_incidencia_acumulada_total": 1040.31209362809,
+      "casos_confirmados_totales": 88,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Torrelodones",
       "codigo_geometria": "1527",
-      "tasa_incidencia_acumulada_ultimos_14dias": 80.1113125606105,
-      "tasa_incidencia_acumulada_total": 1458.86916557743,
-      "casos_confirmados_totales": 346,
-      "casos_confirmados_ultimos_14dias": 19,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 63.2457730741662,
+      "tasa_incidencia_acumulada_total": 1433.57085634777,
+      "casos_confirmados_totales": 340,
+      "casos_confirmados_ultimos_14dias": 15,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Boadilla del Monte",
       "codigo_geometria": "0225",
-      "tasa_incidencia_acumulada_ultimos_14dias": 75.1328568810702,
-      "tasa_incidencia_acumulada_total": 657.870624885468,
-      "casos_confirmados_totales": 359,
-      "casos_confirmados_ultimos_14dias": 41,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 53.142752428074,
+      "tasa_incidencia_acumulada_total": 637.713029136888,
+      "casos_confirmados_totales": 348,
+      "casos_confirmados_ultimos_14dias": 29,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Torrejón de Velasco",
@@ -906,14 +905,14 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 456.412596987677,
       "casos_confirmados_totales": 20,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villanueva de Perales",
       "codigo_geometria": "1782",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 319.897632757518,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Tielmes",
@@ -921,7 +920,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1245.28301886792,
       "casos_confirmados_totales": 33,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "San Sebastián de los Reyes",
@@ -930,7 +929,7 @@
       "tasa_incidencia_acumulada_total": 546.619472198575,
       "casos_confirmados_totales": 488,
       "casos_confirmados_ultimos_14dias": 13,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Guadalix de la Sierra",
@@ -939,16 +938,16 @@
       "tasa_incidencia_acumulada_total": 804.634695848085,
       "casos_confirmados_totales": 50,
       "casos_confirmados_ultimos_14dias": 10,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Humanes de Madrid",
       "codigo_geometria": "0730",
-      "tasa_incidencia_acumulada_ultimos_14dias": 40.5206908777795,
+      "tasa_incidencia_acumulada_ultimos_14dias": 35.455604518057,
       "tasa_incidencia_acumulada_total": 602.74527680697,
       "casos_confirmados_totales": 119,
-      "casos_confirmados_ultimos_14dias": 8,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 7,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Chinchón",
@@ -956,7 +955,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 37.516413430876,
       "tasa_incidencia_acumulada_total": 506.471581316826,
       "casos_confirmados_totales": 27,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Cadalso de los Vidrios",
@@ -964,15 +963,15 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 263.244488318526,
       "casos_confirmados_totales": 8,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Hoyo de Manzanares",
       "codigo_geometria": "0724",
-      "tasa_incidencia_acumulada_ultimos_14dias": 59.2838510789661,
-      "tasa_incidencia_acumulada_total": 450.557268200142,
-      "casos_confirmados_totales": 38,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 47.4270808631729,
+      "tasa_incidencia_acumulada_total": 438.700497984349,
+      "casos_confirmados_totales": 37,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Torrejón de la Calzada",
@@ -980,7 +979,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 11.2714156898106,
       "tasa_incidencia_acumulada_total": 428.313796212804,
       "casos_confirmados_totales": 38,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Estremera",
@@ -988,7 +987,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 714.285714285714,
       "casos_confirmados_totales": 9,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Corpa",
@@ -996,7 +995,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 841.514726507714,
       "casos_confirmados_totales": 6,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Meco",
@@ -1004,14 +1003,14 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 6.99056274030059,
       "tasa_incidencia_acumulada_total": 894.792030758476,
       "casos_confirmados_totales": 128,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Madarcos",
       "codigo_geometria": "0783",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Zarzalejo",
@@ -1020,16 +1019,16 @@
       "tasa_incidencia_acumulada_total": 1869.72255729795,
       "casos_confirmados_totales": 31,
       "casos_confirmados_ultimos_14dias": 7,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Arganda del Rey",
       "codigo_geometria": "0148",
-      "tasa_incidencia_acumulada_ultimos_14dias": 25.2757767787828,
+      "tasa_incidencia_acumulada_ultimos_14dias": 23.4703641517269,
       "tasa_incidencia_acumulada_total": 628.283594215458,
       "casos_confirmados_totales": 348,
-      "casos_confirmados_ultimos_14dias": 14,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 13,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Collado Mediano",
@@ -1037,7 +1036,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 14.3719459614832,
       "tasa_incidencia_acumulada_total": 459.902270767462,
       "casos_confirmados_totales": 32,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Daganzo de Arriba",
@@ -1045,7 +1044,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 19.5982361587457,
       "tasa_incidencia_acumulada_total": 401.763841254287,
       "casos_confirmados_totales": 41,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Manzanares El Real",
@@ -1054,7 +1053,7 @@
       "tasa_incidencia_acumulada_total": 497.737556561086,
       "casos_confirmados_totales": 44,
       "casos_confirmados_ultimos_14dias": 6,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Buitrago del Lozoya",
@@ -1062,21 +1061,21 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 796.178343949045,
       "casos_confirmados_totales": 15,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valdelaguna",
       "codigo_geometria": "1570",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 106.723585912487,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valdepiélagos",
       "codigo_geometria": "1631",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Casarrubuelos",
@@ -1084,7 +1083,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 291.159343568025,
       "casos_confirmados_totales": 11,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Miraflores de la Sierra",
@@ -1092,7 +1091,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 32.7439423706614,
       "tasa_incidencia_acumulada_total": 605.762933857236,
       "casos_confirmados_totales": 37,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Paracuellos de Jarama",
@@ -1100,7 +1099,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 3.95741818037912,
       "tasa_incidencia_acumulada_total": 280.976690806918,
       "casos_confirmados_totales": 71,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "El Vellón",
@@ -1108,23 +1107,23 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 51.0725229826353,
       "tasa_incidencia_acumulada_total": 715.015321756895,
       "casos_confirmados_totales": 14,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Lozoya",
       "codigo_geometria": "0761",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 172.117039586919,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Collado Villalba",
       "codigo_geometria": "0474",
-      "tasa_incidencia_acumulada_ultimos_14dias": 53.3927982537414,
-      "tasa_incidencia_acumulada_total": 822.877243675309,
-      "casos_confirmados_totales": 524,
-      "casos_confirmados_ultimos_14dias": 34,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 40.8297868999199,
+      "tasa_incidencia_acumulada_total": 813.454985159943,
+      "casos_confirmados_totales": 518,
+      "casos_confirmados_ultimos_14dias": 26,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Colmenarejo",
@@ -1132,21 +1131,21 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 54.7645125958379,
       "tasa_incidencia_acumulada_total": 503.833515881709,
       "casos_confirmados_totales": 46,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villavieja del Lozoya",
       "codigo_geometria": "1821",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Prádena del Rincón",
       "codigo_geometria": "1179",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "La Cabrera",
@@ -1154,44 +1153,43 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 37.4953130858643,
       "tasa_incidencia_acumulada_total": 449.943757030371,
       "casos_confirmados_totales": 12,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Sevilla la Nueva",
       "codigo_geometria": "1415",
-      "tasa_incidencia_acumulada_ultimos_14dias": 64.3915003219575,
+      "tasa_incidencia_acumulada_ultimos_14dias": 53.6595836016313,
       "tasa_incidencia_acumulada_total": 1405.88109036274,
       "casos_confirmados_totales": 131,
-      "casos_confirmados_ultimos_14dias": 6,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "La Acebeda",
       "codigo_geometria": "0014",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Redueña",
       "codigo_geometria": "1219",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 769.230769230769,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Robledillo de la Jara",
       "codigo_geometria": "1245",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1250.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "La Serna del Monte",
       "codigo_geometria": "1381",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Colmenar de Oreja",
@@ -1199,21 +1197,21 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 12.4501992031873,
       "tasa_incidencia_acumulada_total": 323.705179282869,
       "casos_confirmados_totales": 26,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Rozas de Puerto Real",
       "codigo_geometria": "1283",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 566.037735849057,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valdemanco",
       "codigo_geometria": "1586",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 109.409190371991,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Brunete",
@@ -1222,7 +1220,7 @@
       "tasa_incidencia_acumulada_total": 1052.53353204173,
       "casos_confirmados_totales": 113,
       "casos_confirmados_ultimos_14dias": 36,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Titulcia",
@@ -1230,7 +1228,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 685.453160700685,
       "casos_confirmados_totales": 9,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villa del Prado",
@@ -1238,14 +1236,14 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 76.6871165644172,
       "tasa_incidencia_acumulada_total": 1825.15337423313,
       "casos_confirmados_totales": 119,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Lozoyuela-Navas-Sieteiglesias",
       "codigo_geometria": "9015",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 230.94688221709,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Quijorna",
@@ -1253,25 +1251,25 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 639.720849084036,
       "casos_confirmados_totales": 22,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valdemoro",
       "codigo_geometria": "1610",
-      "tasa_incidencia_acumulada_ultimos_14dias": 25.0055933564087,
-      "tasa_incidencia_acumulada_total": 1038.39016622139,
-      "casos_confirmados_totales": 789,
-      "casos_confirmados_ultimos_14dias": 19,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 26.3216772172723,
+      "tasa_incidencia_acumulada_total": 1042.33841780398,
+      "casos_confirmados_totales": 792,
+      "casos_confirmados_ultimos_14dias": 20,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Tres Cantos",
       "codigo_geometria": "9036",
-      "tasa_incidencia_acumulada_ultimos_14dias": 146.682871631533,
+      "tasa_incidencia_acumulada_ultimos_14dias": 90.1051925736558,
       "tasa_incidencia_acumulada_total": 878.00176019446,
       "casos_confirmados_totales": 419,
-      "casos_confirmados_ultimos_14dias": 70,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 43,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Torrelaguna",
@@ -1279,7 +1277,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 84.0336134453782,
       "tasa_incidencia_acumulada_total": 462.18487394958,
       "casos_confirmados_totales": 22,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Rivas-Vaciamadrid",
@@ -1288,14 +1286,14 @@
       "tasa_incidencia_acumulada_total": 637.549631310267,
       "casos_confirmados_totales": 562,
       "casos_confirmados_ultimos_14dias": 25,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "El Atazar",
       "codigo_geometria": "0164",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Pedrezuela",
@@ -1303,7 +1301,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 16.9721656483367,
       "tasa_incidencia_acumulada_total": 441.276306856755,
       "casos_confirmados_totales": 26,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Santa María de la Alameda",
@@ -1311,23 +1309,23 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 478.468899521531,
       "casos_confirmados_totales": 6,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Horcajuelo de la Sierra",
       "codigo_geometria": "0719",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Arroyomolinos",
       "codigo_geometria": "0151",
-      "tasa_incidencia_acumulada_ultimos_14dias": 63.7023824691043,
-      "tasa_incidencia_acumulada_total": 576.506561345394,
-      "casos_confirmados_totales": 181,
-      "casos_confirmados_ultimos_14dias": 20,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 60.5172633456491,
+      "tasa_incidencia_acumulada_total": 573.321442221939,
+      "casos_confirmados_totales": 180,
+      "casos_confirmados_ultimos_14dias": 19,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Moralzarzal",
@@ -1335,14 +1333,14 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 23.0308613542146,
       "tasa_incidencia_acumulada_total": 583.448487640104,
       "casos_confirmados_totales": 76,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Canencia",
       "codigo_geometria": "0344",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 447.427293064877,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villarejo de Salvanés",
@@ -1350,7 +1348,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 40.8997955010225,
       "tasa_incidencia_acumulada_total": 518.064076346285,
       "casos_confirmados_totales": 38,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Serranillos del Valle",
@@ -1358,16 +1356,16 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 24.0096038415366,
       "tasa_incidencia_acumulada_total": 816.326530612245,
       "casos_confirmados_totales": 34,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villaviciosa de Odón",
       "codigo_geometria": "1816",
-      "tasa_incidencia_acumulada_ultimos_14dias": 32.3333932099874,
-      "tasa_incidencia_acumulada_total": 750.853242320819,
-      "casos_confirmados_totales": 209,
-      "casos_confirmados_ultimos_14dias": 9,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 28.7407939644333,
+      "tasa_incidencia_acumulada_total": 747.260643075265,
+      "casos_confirmados_totales": 208,
+      "casos_confirmados_ultimos_14dias": 8,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Camarma de Esteruelas",
@@ -1375,15 +1373,15 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 572.519083969466,
       "casos_confirmados_totales": 42,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Robledo de Chavela",
       "codigo_geometria": "1258",
-      "tasa_incidencia_acumulada_ultimos_14dias": 46.8384074941452,
-      "tasa_incidencia_acumulada_total": 655.737704918033,
-      "casos_confirmados_totales": 28,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 23.4192037470726,
+      "tasa_incidencia_acumulada_total": 632.31850117096,
+      "casos_confirmados_totales": 27,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Patones",
@@ -1391,7 +1389,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1109.0573012939,
       "casos_confirmados_totales": 6,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Navalagamella",
@@ -1399,7 +1397,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 229.885057471264,
       "casos_confirmados_totales": 6,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Rascafría",
@@ -1407,7 +1405,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 360.576923076923,
       "casos_confirmados_totales": 6,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "El Boalo",
@@ -1415,16 +1413,16 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 26.638252530634,
       "tasa_incidencia_acumulada_total": 559.403303143314,
       "casos_confirmados_totales": 42,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Majadahonda",
       "codigo_geometria": "0800",
-      "tasa_incidencia_acumulada_ultimos_14dias": 41.7676050455267,
-      "tasa_incidencia_acumulada_total": 800.545763372595,
-      "casos_confirmados_totales": 575,
-      "casos_confirmados_ultimos_14dias": 30,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 34.8063375379389,
+      "tasa_incidencia_acumulada_total": 793.584495865007,
+      "casos_confirmados_totales": 570,
+      "casos_confirmados_ultimos_14dias": 25,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Batres",
@@ -1432,25 +1430,25 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 475.059382422803,
       "casos_confirmados_totales": 8,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Alcobendas",
       "codigo_geometria": "0066",
-      "tasa_incidencia_acumulada_ultimos_14dias": 38.4483937115516,
-      "tasa_incidencia_acumulada_total": 672.41968557758,
-      "casos_confirmados_totales": 787,
-      "casos_confirmados_ultimos_14dias": 45,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 37.593984962406,
+      "tasa_incidencia_acumulada_total": 671.565276828435,
+      "casos_confirmados_totales": 786,
+      "casos_confirmados_ultimos_14dias": 44,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Alcalá de Henares",
       "codigo_geometria": "0053",
-      "tasa_incidencia_acumulada_ultimos_14dias": 18.4002984937311,
-      "tasa_incidencia_acumulada_total": 1200.10835731335,
-      "casos_confirmados_totales": 2348,
-      "casos_confirmados_ultimos_14dias": 36,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 17.8891790911275,
+      "tasa_incidencia_acumulada_total": 1199.59723791075,
+      "casos_confirmados_totales": 2347,
+      "casos_confirmados_ultimos_14dias": 35,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Colmenar Viejo",
@@ -1459,7 +1457,7 @@
       "tasa_incidencia_acumulada_total": 833.464691046658,
       "casos_confirmados_totales": 423,
       "casos_confirmados_ultimos_14dias": 51,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "San Fernando de Henares",
@@ -1468,24 +1466,24 @@
       "tasa_incidencia_acumulada_total": 1054.98072631365,
       "casos_confirmados_totales": 416,
       "casos_confirmados_ultimos_14dias": 11,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villalbilla",
       "codigo_geometria": "1723",
-      "tasa_incidencia_acumulada_ultimos_14dias": 21.6169476869866,
+      "tasa_incidencia_acumulada_ultimos_14dias": 14.4112984579911,
       "tasa_incidencia_acumulada_total": 670.125378296584,
       "casos_confirmados_totales": 93,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "El Escorial",
       "codigo_geometria": "0549",
-      "tasa_incidencia_acumulada_ultimos_14dias": 216.557356762777,
-      "tasa_incidencia_acumulada_total": 860.042074000742,
-      "casos_confirmados_totales": 139,
-      "casos_confirmados_ultimos_14dias": 35,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 204.182650662047,
+      "tasa_incidencia_acumulada_total": 835.292661799282,
+      "casos_confirmados_totales": 135,
+      "casos_confirmados_ultimos_14dias": 33,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Colmenar del Arroyo",
@@ -1493,23 +1491,23 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 2840.57971014493,
       "casos_confirmados_totales": 49,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Torrejón de Ardoz",
       "codigo_geometria": "1489",
-      "tasa_incidencia_acumulada_ultimos_14dias": 28.9246133235903,
+      "tasa_incidencia_acumulada_ultimos_14dias": 28.163439288759,
       "tasa_incidencia_acumulada_total": 751.278772378517,
       "casos_confirmados_totales": 987,
-      "casos_confirmados_ultimos_14dias": 38,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "casos_confirmados_ultimos_14dias": 37,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Piñuécar-Gandullas",
       "codigo_geometria": "1147",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 0.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Brea de Tajo",
@@ -1517,7 +1515,7 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1145.03816793893,
       "casos_confirmados_totales": 6,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "El Molar",
@@ -1525,14 +1523,14 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 391.586484672186,
       "casos_confirmados_totales": 35,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Belmonte de Tajo",
       "codigo_geometria": "0199",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 300.480769230769,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Torres de la Alameda",
@@ -1540,22 +1538,22 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 964.134207481682,
       "casos_confirmados_totales": 75,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Somosierra",
       "codigo_geometria": "1436",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1162.79069767442,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Alpedrete",
       "codigo_geometria": "0105",
       "tasa_incidencia_acumulada_ultimos_14dias": 6.86106346483705,
-      "tasa_incidencia_acumulada_total": 960.548885077187,
-      "casos_confirmados_totales": 140,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_total": 967.409948542024,
+      "casos_confirmados_totales": 141,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Orusco de Tajuña",
@@ -1563,51 +1561,1662 @@
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1366.55948553055,
       "casos_confirmados_totales": 17,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "La Hiruela",
       "codigo_geometria": "0698",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 1754.38596491228,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Cervera de Buitrago",
       "codigo_geometria": "0395",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 2000.0,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Getafe",
       "codigo_geometria": "0650",
-      "tasa_incidencia_acumulada_ultimos_14dias": 26.7213454470099,
-      "tasa_incidencia_acumulada_total": 716.568324844307,
-      "casos_confirmados_totales": 1314,
-      "casos_confirmados_ultimos_14dias": 49,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "tasa_incidencia_acumulada_ultimos_14dias": 35.4466827358295,
+      "tasa_incidencia_acumulada_total": 725.838995713678,
+      "casos_confirmados_totales": 1331,
+      "casos_confirmados_ultimos_14dias": 65,
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Ribatejada",
       "codigo_geometria": "1224",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 255.427841634738,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Villaconejos",
       "codigo_geometria": "1701",
-      "tasa_incidencia_acumulada_ultimos_14dias": 29.5159386068477,
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 265.643447461629,
       "casos_confirmados_totales": 9,
-      "fecha_informe": "2020/05/17 09:00:00"
+      "fecha_informe": "2020/05/18 09:00:00"
     },
     {
       "municipio_distrito": "Valdetorres de Jarama",
       "codigo_geometria": "1646",
       "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
       "tasa_incidencia_acumulada_total": 378.029797642873,
+      "casos_confirmados_totales": 17,
+      "fecha_informe": "2020/05/18 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Retiro",
+      "codigo_geometria": "079603",
+      "tasa_incidencia_acumulada_ultimos_14dias": 51.12,
+      "tasa_incidencia_acumulada_total": 1223.63,
+      "casos_confirmados_totales": 1460,
+      "casos_confirmados_ultimos_14dias": 61,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Salamanca",
+      "codigo_geometria": "079604",
+      "tasa_incidencia_acumulada_ultimos_14dias": 36.28,
+      "tasa_incidencia_acumulada_total": 1114.27,
+      "casos_confirmados_totales": 1628,
+      "casos_confirmados_ultimos_14dias": 53,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Centro",
+      "codigo_geometria": "079601",
+      "tasa_incidencia_acumulada_ultimos_14dias": 24.47,
+      "tasa_incidencia_acumulada_total": 851.33,
+      "casos_confirmados_totales": 1148,
+      "casos_confirmados_ultimos_14dias": 33,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Arganzuela",
+      "codigo_geometria": "079602",
+      "tasa_incidencia_acumulada_ultimos_14dias": 25.36,
+      "tasa_incidencia_acumulada_total": 1016.89,
+      "casos_confirmados_totales": 1564,
+      "casos_confirmados_ultimos_14dias": 39,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Chamartín",
+      "codigo_geometria": "079605",
+      "tasa_incidencia_acumulada_ultimos_14dias": 21.94,
+      "tasa_incidencia_acumulada_total": 1107.31,
+      "casos_confirmados_totales": 1615,
+      "casos_confirmados_ultimos_14dias": 32,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Tetuán",
+      "codigo_geometria": "079606",
+      "tasa_incidencia_acumulada_ultimos_14dias": 24.68,
+      "tasa_incidencia_acumulada_total": 1331.45,
+      "casos_confirmados_totales": 2104,
+      "casos_confirmados_ultimos_14dias": 39,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Chamberí",
+      "codigo_geometria": "079607",
+      "tasa_incidencia_acumulada_ultimos_14dias": 38.74,
+      "tasa_incidencia_acumulada_total": 1104.9,
+      "casos_confirmados_totales": 1540,
+      "casos_confirmados_ultimos_14dias": 54,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Fuencarral-El Pardo",
+      "codigo_geometria": "079608",
+      "tasa_incidencia_acumulada_ultimos_14dias": 31.31,
+      "tasa_incidencia_acumulada_total": 1201.92,
+      "casos_confirmados_totales": 2956,
+      "casos_confirmados_ultimos_14dias": 77,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Moncloa-Aravaca",
+      "codigo_geometria": "079609",
+      "tasa_incidencia_acumulada_ultimos_14dias": 46.89,
+      "tasa_incidencia_acumulada_total": 1180.72,
+      "casos_confirmados_totales": 1410,
+      "casos_confirmados_ultimos_14dias": 56,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Latina",
+      "codigo_geometria": "079610",
+      "tasa_incidencia_acumulada_ultimos_14dias": 34.42,
+      "tasa_incidencia_acumulada_total": 1151.05,
+      "casos_confirmados_totales": 2742,
+      "casos_confirmados_ultimos_14dias": 82,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Carabanchel",
+      "codigo_geometria": "079611",
+      "tasa_incidencia_acumulada_ultimos_14dias": 34.77,
+      "tasa_incidencia_acumulada_total": 1054.13,
+      "casos_confirmados_totales": 2668,
+      "casos_confirmados_ultimos_14dias": 88,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Usera",
+      "codigo_geometria": "079612",
+      "tasa_incidencia_acumulada_ultimos_14dias": 25.05,
+      "tasa_incidencia_acumulada_total": 986.83,
+      "casos_confirmados_totales": 1379,
+      "casos_confirmados_ultimos_14dias": 35,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Puente de Vallecas",
+      "codigo_geometria": "079613",
+      "tasa_incidencia_acumulada_ultimos_14dias": 44.28,
+      "tasa_incidencia_acumulada_total": 1290.57,
+      "casos_confirmados_totales": 3031,
+      "casos_confirmados_ultimos_14dias": 104,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-San Blas - Canillejas",
+      "codigo_geometria": "079620",
+      "tasa_incidencia_acumulada_ultimos_14dias": 29.72,
+      "tasa_incidencia_acumulada_total": 916.9,
+      "casos_confirmados_totales": 1450,
+      "casos_confirmados_ultimos_14dias": 47,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Barajas",
+      "codigo_geometria": "079621",
+      "tasa_incidencia_acumulada_ultimos_14dias": 12.26,
+      "tasa_incidencia_acumulada_total": 862.19,
+      "casos_confirmados_totales": 422,
+      "casos_confirmados_ultimos_14dias": 6,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Moratalaz",
+      "codigo_geometria": "079614",
+      "tasa_incidencia_acumulada_ultimos_14dias": 47.58,
+      "tasa_incidencia_acumulada_total": 1397.91,
+      "casos_confirmados_totales": 1322,
+      "casos_confirmados_ultimos_14dias": 45,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Ciudad Lineal",
+      "codigo_geometria": "079615",
+      "tasa_incidencia_acumulada_ultimos_14dias": 24.97,
+      "tasa_incidencia_acumulada_total": 1009.32,
+      "casos_confirmados_totales": 2183,
+      "casos_confirmados_ultimos_14dias": 54,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Hortaleza",
+      "codigo_geometria": "079616",
+      "tasa_incidencia_acumulada_ultimos_14dias": 21.79,
+      "tasa_incidencia_acumulada_total": 918.24,
+      "casos_confirmados_totales": 1728,
+      "casos_confirmados_ultimos_14dias": 41,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Villaverde",
+      "codigo_geometria": "079617",
+      "tasa_incidencia_acumulada_ultimos_14dias": 30.88,
+      "tasa_incidencia_acumulada_total": 945.98,
+      "casos_confirmados_totales": 1409,
+      "casos_confirmados_ultimos_14dias": 46,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Villa de Vallecas",
+      "codigo_geometria": "079618",
+      "tasa_incidencia_acumulada_ultimos_14dias": 31.71,
+      "tasa_incidencia_acumulada_total": 1094.55,
+      "casos_confirmados_totales": 1208,
+      "casos_confirmados_ultimos_14dias": 35,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madrid-Vicálvaro",
+      "codigo_geometria": "079619",
+      "tasa_incidencia_acumulada_ultimos_14dias": 70.74,
+      "tasa_incidencia_acumulada_total": 1129.13,
+      "casos_confirmados_totales": 814,
+      "casos_confirmados_ultimos_14dias": 51,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Pozuelo de Alarcón",
+      "codigo_geometria": "1150  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 46.28,
+      "tasa_incidencia_acumulada_total": 917.59,
+      "casos_confirmados_totales": 793,
+      "casos_confirmados_ultimos_14dias": 40,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Alcorcón",
+      "codigo_geometria": "0072  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 34.6,
+      "tasa_incidencia_acumulada_total": 1077.33,
+      "casos_confirmados_totales": 1837,
+      "casos_confirmados_ultimos_14dias": 59,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Navalcarnero",
+      "codigo_geometria": "0967  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 13.65,
+      "tasa_incidencia_acumulada_total": 590.48,
+      "casos_confirmados_totales": 173,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "San Agustín del Guadalix",
+      "codigo_geometria": "1296  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 14.95,
+      "tasa_incidencia_acumulada_total": 463.41,
+      "casos_confirmados_totales": 62,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Las Rozas de Madrid",
+      "codigo_geometria": "1277  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 29.22,
+      "tasa_incidencia_acumulada_total": 833.91,
+      "casos_confirmados_totales": 799,
+      "casos_confirmados_ultimos_14dias": 28,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Moraleja de Enmedio",
+      "codigo_geometria": "0894  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 486.76,
+      "casos_confirmados_totales": 25,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valdaracete",
+      "codigo_geometria": "1551  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 164.2,
+      "tasa_incidencia_acumulada_total": 985.22,
+      "casos_confirmados_totales": 6,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Pozuelo del Rey",
+      "codigo_geometria": "1163  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 174.37,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Puebla de la Sierra",
+      "codigo_geometria": "1185  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Perales de Tajuña",
+      "codigo_geometria": "1104  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 68.14,
+      "tasa_incidencia_acumulada_total": 340.72,
+      "casos_confirmados_totales": 10,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valdemorillo",
+      "codigo_geometria": "1603  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 31.95,
+      "tasa_incidencia_acumulada_total": 399.42,
+      "casos_confirmados_totales": 50,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Navalafuente",
+      "codigo_geometria": "0941  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 483.09,
+      "casos_confirmados_totales": 7,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Velilla de San Antonio",
+      "codigo_geometria": "1678  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 24.52,
+      "tasa_incidencia_acumulada_total": 596.6,
+      "casos_confirmados_totales": 73,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villanueva de la Cañada",
+      "codigo_geometria": "1760  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 46.63,
+      "tasa_incidencia_acumulada_total": 699.46,
+      "casos_confirmados_totales": 150,
+      "casos_confirmados_ultimos_14dias": 10,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villanueva del Pardillo",
+      "codigo_geometria": "1776  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 23.28,
+      "tasa_incidencia_acumulada_total": 599.53,
+      "casos_confirmados_totales": 103,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Nuevo Baztán",
+      "codigo_geometria": "1006  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 446.14,
+      "casos_confirmados_totales": 28,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villamantilla",
+      "codigo_geometria": "1757  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 485.77,
+      "casos_confirmados_totales": 7,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villamanta",
+      "codigo_geometria": "1744  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 469.67,
+      "casos_confirmados_totales": 12,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Cabanillas de la Sierra",
+      "codigo_geometria": "0297  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1322.75,
+      "casos_confirmados_totales": 10,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Cenicientos",
+      "codigo_geometria": "0376  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 147.57,
+      "tasa_incidencia_acumulada_total": 1426.46,
+      "casos_confirmados_totales": 29,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Puentes Viejas",
+      "codigo_geometria": "9020  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 294.55,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Aranjuez",
+      "codigo_geometria": "0133  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 10.07,
+      "tasa_incidencia_acumulada_total": 751.59,
+      "casos_confirmados_totales": 448,
+      "casos_confirmados_ultimos_14dias": 6,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Cercedilla",
+      "codigo_geometria": "0382  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 113.86,
+      "tasa_incidencia_acumulada_total": 1679.48,
+      "casos_confirmados_totales": 118,
+      "casos_confirmados_ultimos_14dias": 8,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Santorcaz",
+      "codigo_geometria": "1369  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 790.07,
+      "casos_confirmados_totales": 7,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Coslada",
+      "codigo_geometria": "0493  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 30.61,
+      "tasa_incidencia_acumulada_total": 988.23,
+      "casos_confirmados_totales": 807,
+      "casos_confirmados_ultimos_14dias": 25,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Morata de Tajuña",
+      "codigo_geometria": "0915  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 39.05,
+      "tasa_incidencia_acumulada_total": 1275.54,
+      "casos_confirmados_totales": 98,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Robregordo",
+      "codigo_geometria": "1261  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Navarredonda y San Mamés",
+      "codigo_geometria": "0973  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1550.39,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Venturada",
+      "codigo_geometria": "1697  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 138.7,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Navacerrada",
+      "codigo_geometria": "0936  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 605.65,
+      "casos_confirmados_totales": 18,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Montejo de la Sierra",
+      "codigo_geometria": "0881  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 283.29,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Fresno de Torote",
+      "codigo_geometria": "0571  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 630.35,
+      "casos_confirmados_totales": 14,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Pinilla del Valle",
+      "codigo_geometria": "1126  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valdemaqueda",
+      "codigo_geometria": "1599  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 640.2,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Navas del Rey",
+      "codigo_geometria": "0992  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 514.05,
+      "tasa_incidencia_acumulada_total": 2673.06,
+      "casos_confirmados_totales": 78,
+      "casos_confirmados_ultimos_14dias": 15,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Olmeda de las Fuentes",
+      "codigo_geometria": "1013  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 862.07,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Bustarviejo",
+      "codigo_geometria": "0284  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 279.66,
+      "casos_confirmados_totales": 7,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Becerril de la Sierra",
+      "codigo_geometria": "0186  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 560.03,
+      "casos_confirmados_totales": 32,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Fuenlabrada",
+      "codigo_geometria": "0587  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 21.68,
+      "tasa_incidencia_acumulada_total": 799.17,
+      "casos_confirmados_totales": 1548,
+      "casos_confirmados_ultimos_14dias": 42,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Garganta de los Montes",
+      "codigo_geometria": "0626  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 288.18,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Pinto",
+      "codigo_geometria": "1132  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 38.08,
+      "tasa_incidencia_acumulada_total": 534.97,
+      "casos_confirmados_totales": 281,
+      "casos_confirmados_ultimos_14dias": 20,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Alameda del Valle",
+      "codigo_geometria": "0035  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Berzosa del Lozoya",
+      "codigo_geometria": "0203  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 975.61,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Los Santos de la Humosa",
+      "codigo_geometria": "1375  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 772.2,
+      "casos_confirmados_totales": 20,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "El Álamo",
+      "codigo_geometria": "0040  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 31.68,
+      "tasa_incidencia_acumulada_total": 855.33,
+      "casos_confirmados_totales": 81,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Pelayos de la Presa",
+      "codigo_geometria": "1090  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 38.52,
+      "tasa_incidencia_acumulada_total": 693.37,
+      "casos_confirmados_totales": 18,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Galapagar",
+      "codigo_geometria": "0611  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 74.09,
+      "tasa_incidencia_acumulada_total": 812.04,
+      "casos_confirmados_totales": 274,
+      "casos_confirmados_ultimos_14dias": 25,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Griñón",
+      "codigo_geometria": "0663  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 29.07,
+      "tasa_incidencia_acumulada_total": 823.72,
+      "casos_confirmados_totales": 85,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Gargantilla del Lozoya y Pinilla de Buitrago",
+      "codigo_geometria": "0632  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 316.46,
+      "tasa_incidencia_acumulada_total": 1265.82,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Aldea del Fresno",
+      "codigo_geometria": "0088  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 105.71,
+      "tasa_incidencia_acumulada_total": 2008.46,
+      "casos_confirmados_totales": 57,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Carabaña",
+      "codigo_geometria": "0357  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 696.52,
+      "casos_confirmados_totales": 14,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Talamanca de Jarama",
+      "codigo_geometria": "1454  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 751.88,
+      "casos_confirmados_totales": 29,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Chapinería",
+      "codigo_geometria": "0513  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 42.96,
+      "tasa_incidencia_acumulada_total": 300.69,
+      "casos_confirmados_totales": 7,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Ciempozuelos",
+      "codigo_geometria": "0409  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 61.0,
+      "tasa_incidencia_acumulada_total": 971.86,
+      "casos_confirmados_totales": 239,
+      "casos_confirmados_ultimos_14dias": 15,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Ajalvir",
+      "codigo_geometria": "0029  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 84.89,
+      "tasa_incidencia_acumulada_total": 382.0,
+      "casos_confirmados_totales": 18,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "San Lorenzo de El Escorial",
+      "codigo_geometria": "1317  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 27.22,
+      "tasa_incidencia_acumulada_total": 778.49,
+      "casos_confirmados_totales": 143,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Gascones",
+      "codigo_geometria": "0647  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "San Martín de la Vega",
+      "codigo_geometria": "1322  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 15.65,
+      "tasa_incidencia_acumulada_total": 469.48,
+      "casos_confirmados_totales": 90,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Móstoles",
+      "codigo_geometria": "0920  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 74.58,
+      "tasa_incidencia_acumulada_total": 1004.86,
+      "casos_confirmados_totales": 2102,
+      "casos_confirmados_ultimos_14dias": 156,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Leganés",
+      "codigo_geometria": "0745  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 36.87,
+      "tasa_incidencia_acumulada_total": 1569.57,
+      "casos_confirmados_totales": 2980,
+      "casos_confirmados_ultimos_14dias": 70,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Braojos",
+      "codigo_geometria": "0246  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 975.61,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Cubas de la Sagra",
+      "codigo_geometria": "0506  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 31.19,
+      "tasa_incidencia_acumulada_total": 452.21,
+      "casos_confirmados_totales": 29,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Algete",
+      "codigo_geometria": "0091  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 9.7,
+      "tasa_incidencia_acumulada_total": 528.84,
+      "casos_confirmados_totales": 109,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Mejorada del Campo",
+      "codigo_geometria": "0843  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 8.59,
+      "tasa_incidencia_acumulada_total": 747.62,
+      "casos_confirmados_totales": 174,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Loeches",
+      "codigo_geometria": "0758  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 11.38,
+      "tasa_incidencia_acumulada_total": 557.39,
+      "casos_confirmados_totales": 49,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Parla",
+      "codigo_geometria": "1065  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 12.3,
+      "tasa_incidencia_acumulada_total": 579.45,
+      "casos_confirmados_totales": 754,
+      "casos_confirmados_ultimos_14dias": 16,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Fuentidueña de Tajo",
+      "codigo_geometria": "0604  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 48.71,
+      "tasa_incidencia_acumulada_total": 876.77,
+      "casos_confirmados_totales": 18,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Ambite",
+      "codigo_geometria": "0112  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1182.43,
+      "casos_confirmados_totales": 7,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Torremocha de Jarama",
+      "codigo_geometria": "1533  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 785.08,
+      "casos_confirmados_totales": 8,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Anchuelo",
+      "codigo_geometria": "0127  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 550.75,
+      "casos_confirmados_totales": 7,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Los Molinos",
+      "codigo_geometria": "0875  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 91.14,
+      "tasa_incidencia_acumulada_total": 1298.7,
+      "casos_confirmados_totales": 57,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Soto del Real",
+      "codigo_geometria": "1441  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 738.72,
+      "casos_confirmados_totales": 65,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valverde de Alcalá",
+      "codigo_geometria": "1662  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1720.43,
+      "casos_confirmados_totales": 8,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Fuente el Saz de Jarama",
+      "codigo_geometria": "0590  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 29.87,
+      "tasa_incidencia_acumulada_total": 507.77,
+      "casos_confirmados_totales": 34,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Horcajo de la Sierra-Aoslos",
+      "codigo_geometria": "0702  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 2758.62,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valdeolmos-Alalpardo",
+      "codigo_geometria": "1625  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 265.96,
+      "casos_confirmados_totales": 11,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Campo Real",
+      "codigo_geometria": "0339  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 48.31,
+      "tasa_incidencia_acumulada_total": 434.78,
+      "casos_confirmados_totales": 27,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valdeavero",
+      "codigo_geometria": "1564  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 514.8,
+      "casos_confirmados_totales": 8,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villamanrique de Tajo",
+      "codigo_geometria": "1739  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 568.99,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Cobeña",
+      "codigo_geometria": "0416  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 121.16,
+      "tasa_incidencia_acumulada_total": 996.23,
+      "casos_confirmados_totales": 74,
+      "casos_confirmados_ultimos_14dias": 9,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Fresnedillas de la Oliva",
+      "codigo_geometria": "0565  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 572.52,
+      "casos_confirmados_totales": 9,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valdilecha",
+      "codigo_geometria": "1659  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 613.71,
+      "casos_confirmados_totales": 18,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "El Berrueco",
+      "codigo_geometria": "0210  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1052.63,
+      "casos_confirmados_totales": 8,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Pezuela de las Torres",
+      "codigo_geometria": "1111  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 237.53,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villar del Olmo",
+      "codigo_geometria": "1795  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 198.91,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Guadarrama",
+      "codigo_geometria": "0685  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 124.75,
+      "tasa_incidencia_acumulada_total": 1378.49,
+      "casos_confirmados_totales": 221,
+      "casos_confirmados_ultimos_14dias": 20,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "San Martín de Valdeiglesias",
+      "codigo_geometria": "1338  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 23.64,
+      "tasa_incidencia_acumulada_total": 1028.49,
+      "casos_confirmados_totales": 87,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Torrelodones",
+      "codigo_geometria": "1527  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 80.11,
+      "tasa_incidencia_acumulada_total": 1458.87,
+      "casos_confirmados_totales": 346,
+      "casos_confirmados_ultimos_14dias": 19,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Boadilla del Monte",
+      "codigo_geometria": "0225  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 75.13,
+      "tasa_incidencia_acumulada_total": 657.87,
+      "casos_confirmados_totales": 359,
+      "casos_confirmados_ultimos_14dias": 41,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Torrejón de Velasco",
+      "codigo_geometria": "1505  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 456.41,
+      "casos_confirmados_totales": 20,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villanueva de Perales",
+      "codigo_geometria": "1782  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 319.9,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Tielmes",
+      "codigo_geometria": "1467  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1245.28,
+      "casos_confirmados_totales": 33,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "San Sebastián de los Reyes",
+      "codigo_geometria": "1343  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 14.56,
+      "tasa_incidencia_acumulada_total": 546.62,
+      "casos_confirmados_totales": 488,
+      "casos_confirmados_ultimos_14dias": 13,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Guadalix de la Sierra",
+      "codigo_geometria": "0679  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 160.93,
+      "tasa_incidencia_acumulada_total": 804.63,
+      "casos_confirmados_totales": 50,
+      "casos_confirmados_ultimos_14dias": 10,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Humanes de Madrid",
+      "codigo_geometria": "0730  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 40.52,
+      "tasa_incidencia_acumulada_total": 602.75,
+      "casos_confirmados_totales": 119,
+      "casos_confirmados_ultimos_14dias": 8,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Chinchón",
+      "codigo_geometria": "0528  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 37.52,
+      "tasa_incidencia_acumulada_total": 506.47,
+      "casos_confirmados_totales": 27,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Cadalso de los Vidrios",
+      "codigo_geometria": "0318  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 263.24,
+      "casos_confirmados_totales": 8,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Hoyo de Manzanares",
+      "codigo_geometria": "0724  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 59.28,
+      "tasa_incidencia_acumulada_total": 450.56,
+      "casos_confirmados_totales": 38,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Torrejón de la Calzada",
+      "codigo_geometria": "1492  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 11.27,
+      "tasa_incidencia_acumulada_total": 428.31,
+      "casos_confirmados_totales": 38,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Estremera",
+      "codigo_geometria": "0552  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 714.29,
+      "casos_confirmados_totales": 9,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Corpa",
+      "codigo_geometria": "0480  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 841.51,
+      "casos_confirmados_totales": 6,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Meco",
+      "codigo_geometria": "0838  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 6.99,
+      "tasa_incidencia_acumulada_total": 894.79,
+      "casos_confirmados_totales": 128,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Madarcos",
+      "codigo_geometria": "0783  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Zarzalejo",
+      "codigo_geometria": "1837  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 422.2,
+      "tasa_incidencia_acumulada_total": 1869.72,
+      "casos_confirmados_totales": 31,
+      "casos_confirmados_ultimos_14dias": 7,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Arganda del Rey",
+      "codigo_geometria": "0148  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 25.28,
+      "tasa_incidencia_acumulada_total": 628.28,
+      "casos_confirmados_totales": 348,
+      "casos_confirmados_ultimos_14dias": 14,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Collado Mediano",
+      "codigo_geometria": "0468  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 14.37,
+      "tasa_incidencia_acumulada_total": 459.9,
+      "casos_confirmados_totales": 32,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Daganzo de Arriba",
+      "codigo_geometria": "0534  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 19.6,
+      "tasa_incidencia_acumulada_total": 401.76,
+      "casos_confirmados_totales": 41,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Manzanares El Real",
+      "codigo_geometria": "0822  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 67.87,
+      "tasa_incidencia_acumulada_total": 497.74,
+      "casos_confirmados_totales": 44,
+      "casos_confirmados_ultimos_14dias": 6,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Buitrago del Lozoya",
+      "codigo_geometria": "0278  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 796.18,
+      "casos_confirmados_totales": 15,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valdelaguna",
+      "codigo_geometria": "1570  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 106.72,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valdepiélagos",
+      "codigo_geometria": "1631  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Casarrubuelos",
+      "codigo_geometria": "0360  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 291.16,
+      "casos_confirmados_totales": 11,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Miraflores de la Sierra",
+      "codigo_geometria": "0856  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 32.74,
+      "tasa_incidencia_acumulada_total": 605.76,
+      "casos_confirmados_totales": 37,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Paracuellos de Jarama",
+      "codigo_geometria": "1049  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 3.96,
+      "tasa_incidencia_acumulada_total": 280.98,
+      "casos_confirmados_totales": 71,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "El Vellón",
+      "codigo_geometria": "1684  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 51.07,
+      "tasa_incidencia_acumulada_total": 715.02,
+      "casos_confirmados_totales": 14,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Lozoya",
+      "codigo_geometria": "0761  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 172.12,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Collado Villalba",
+      "codigo_geometria": "0474  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 53.39,
+      "tasa_incidencia_acumulada_total": 822.88,
+      "casos_confirmados_totales": 524,
+      "casos_confirmados_ultimos_14dias": 34,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Colmenarejo",
+      "codigo_geometria": "0442  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 54.76,
+      "tasa_incidencia_acumulada_total": 503.83,
+      "casos_confirmados_totales": 46,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villavieja del Lozoya",
+      "codigo_geometria": "1821  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Prádena del Rincón",
+      "codigo_geometria": "1179  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "La Cabrera",
+      "codigo_geometria": "0301  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 37.5,
+      "tasa_incidencia_acumulada_total": 449.94,
+      "casos_confirmados_totales": 12,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Sevilla la Nueva",
+      "codigo_geometria": "1415  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 64.39,
+      "tasa_incidencia_acumulada_total": 1405.88,
+      "casos_confirmados_totales": 131,
+      "casos_confirmados_ultimos_14dias": 6,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "La Acebeda",
+      "codigo_geometria": "0014  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Redueña",
+      "codigo_geometria": "1219  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 769.23,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Robledillo de la Jara",
+      "codigo_geometria": "1245  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1250.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "La Serna del Monte",
+      "codigo_geometria": "1381  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Colmenar de Oreja",
+      "codigo_geometria": "0437  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 12.45,
+      "tasa_incidencia_acumulada_total": 323.71,
+      "casos_confirmados_totales": 26,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Rozas de Puerto Real",
+      "codigo_geometria": "1283  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 566.04,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valdemanco",
+      "codigo_geometria": "1586  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 109.41,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Brunete",
+      "codigo_geometria": "0262  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 335.32,
+      "tasa_incidencia_acumulada_total": 1052.53,
+      "casos_confirmados_totales": 113,
+      "casos_confirmados_ultimos_14dias": 36,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Titulcia",
+      "codigo_geometria": "1473  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 685.45,
+      "casos_confirmados_totales": 9,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villa del Prado",
+      "codigo_geometria": "1718  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 76.69,
+      "tasa_incidencia_acumulada_total": 1825.15,
+      "casos_confirmados_totales": 119,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Lozoyuela-Navas-Sieteiglesias",
+      "codigo_geometria": "9015  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 230.95,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Quijorna",
+      "codigo_geometria": "1198  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 639.72,
+      "casos_confirmados_totales": 22,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valdemoro",
+      "codigo_geometria": "1610  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 25.01,
+      "tasa_incidencia_acumulada_total": 1038.39,
+      "casos_confirmados_totales": 789,
+      "casos_confirmados_ultimos_14dias": 19,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Tres Cantos",
+      "codigo_geometria": "9036  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 146.68,
+      "tasa_incidencia_acumulada_total": 878.0,
+      "casos_confirmados_totales": 419,
+      "casos_confirmados_ultimos_14dias": 70,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Torrelaguna",
+      "codigo_geometria": "1512  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 84.03,
+      "tasa_incidencia_acumulada_total": 462.18,
+      "casos_confirmados_totales": 22,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Rivas-Vaciamadrid",
+      "codigo_geometria": "1230  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 28.36,
+      "tasa_incidencia_acumulada_total": 637.55,
+      "casos_confirmados_totales": 562,
+      "casos_confirmados_ultimos_14dias": 25,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "El Atazar",
+      "codigo_geometria": "0164  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Pedrezuela",
+      "codigo_geometria": "1087  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 16.97,
+      "tasa_incidencia_acumulada_total": 441.28,
+      "casos_confirmados_totales": 26,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Santa María de la Alameda",
+      "codigo_geometria": "1356  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 478.47,
+      "casos_confirmados_totales": 6,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Horcajuelo de la Sierra",
+      "codigo_geometria": "0719  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Arroyomolinos",
+      "codigo_geometria": "0151  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 63.7,
+      "tasa_incidencia_acumulada_total": 576.51,
+      "casos_confirmados_totales": 181,
+      "casos_confirmados_ultimos_14dias": 20,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Moralzarzal",
+      "codigo_geometria": "0908  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 23.03,
+      "tasa_incidencia_acumulada_total": 583.45,
+      "casos_confirmados_totales": 76,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Canencia",
+      "codigo_geometria": "0344  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 447.43,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villarejo de Salvanés",
+      "codigo_geometria": "1809  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 40.9,
+      "tasa_incidencia_acumulada_total": 518.06,
+      "casos_confirmados_totales": 38,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Serranillos del Valle",
+      "codigo_geometria": "1408  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 24.01,
+      "tasa_incidencia_acumulada_total": 816.33,
+      "casos_confirmados_totales": 34,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villaviciosa de Odón",
+      "codigo_geometria": "1816  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 32.33,
+      "tasa_incidencia_acumulada_total": 750.85,
+      "casos_confirmados_totales": 209,
+      "casos_confirmados_ultimos_14dias": 9,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Camarma de Esteruelas",
+      "codigo_geometria": "0323  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 572.52,
+      "casos_confirmados_totales": 42,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Robledo de Chavela",
+      "codigo_geometria": "1258  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 46.84,
+      "tasa_incidencia_acumulada_total": 655.74,
+      "casos_confirmados_totales": 28,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Patones",
+      "codigo_geometria": "1071  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1109.06,
+      "casos_confirmados_totales": 6,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Navalagamella",
+      "codigo_geometria": "0954  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 229.89,
+      "casos_confirmados_totales": 6,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Rascafría",
+      "codigo_geometria": "1202  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 360.58,
+      "casos_confirmados_totales": 6,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "El Boalo",
+      "codigo_geometria": "0231  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 26.64,
+      "tasa_incidencia_acumulada_total": 559.4,
+      "casos_confirmados_totales": 42,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Majadahonda",
+      "codigo_geometria": "0800  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 41.77,
+      "tasa_incidencia_acumulada_total": 800.55,
+      "casos_confirmados_totales": 575,
+      "casos_confirmados_ultimos_14dias": 30,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Batres",
+      "codigo_geometria": "0170  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 475.06,
+      "casos_confirmados_totales": 8,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Alcobendas",
+      "codigo_geometria": "0066  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 38.45,
+      "tasa_incidencia_acumulada_total": 672.42,
+      "casos_confirmados_totales": 787,
+      "casos_confirmados_ultimos_14dias": 45,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Alcalá de Henares",
+      "codigo_geometria": "0053  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 18.4,
+      "tasa_incidencia_acumulada_total": 1200.11,
+      "casos_confirmados_totales": 2348,
+      "casos_confirmados_ultimos_14dias": 36,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Colmenar Viejo",
+      "codigo_geometria": "0455  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 100.49,
+      "tasa_incidencia_acumulada_total": 833.46,
+      "casos_confirmados_totales": 423,
+      "casos_confirmados_ultimos_14dias": 51,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "San Fernando de Henares",
+      "codigo_geometria": "1300  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 27.9,
+      "tasa_incidencia_acumulada_total": 1054.98,
+      "casos_confirmados_totales": 416,
+      "casos_confirmados_ultimos_14dias": 11,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villalbilla",
+      "codigo_geometria": "1723  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 21.62,
+      "tasa_incidencia_acumulada_total": 670.13,
+      "casos_confirmados_totales": 93,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "El Escorial",
+      "codigo_geometria": "0549  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 216.56,
+      "tasa_incidencia_acumulada_total": 860.04,
+      "casos_confirmados_totales": 139,
+      "casos_confirmados_ultimos_14dias": 35,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Colmenar del Arroyo",
+      "codigo_geometria": "0421  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 2840.58,
+      "casos_confirmados_totales": 49,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Torrejón de Ardoz",
+      "codigo_geometria": "1489  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 28.92,
+      "tasa_incidencia_acumulada_total": 751.28,
+      "casos_confirmados_totales": 987,
+      "casos_confirmados_ultimos_14dias": 38,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Piñuécar-Gandullas",
+      "codigo_geometria": "1147  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 0.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Brea de Tajo",
+      "codigo_geometria": "0259  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1145.04,
+      "casos_confirmados_totales": 6,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "El Molar",
+      "codigo_geometria": "0869  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 391.59,
+      "casos_confirmados_totales": 35,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Belmonte de Tajo",
+      "codigo_geometria": "0199  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 300.48,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Torres de la Alameda",
+      "codigo_geometria": "1548  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 964.13,
+      "casos_confirmados_totales": 75,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Somosierra",
+      "codigo_geometria": "1436  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1162.79,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Alpedrete",
+      "codigo_geometria": "0105  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 6.86,
+      "tasa_incidencia_acumulada_total": 960.55,
+      "casos_confirmados_totales": 140,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Orusco de Tajuña",
+      "codigo_geometria": "1028  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1366.56,
+      "casos_confirmados_totales": 17,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "La Hiruela",
+      "codigo_geometria": "0698  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 1754.39,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Cervera de Buitrago",
+      "codigo_geometria": "0395  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 2000.0,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Getafe",
+      "codigo_geometria": "0650  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 26.72,
+      "tasa_incidencia_acumulada_total": 716.57,
+      "casos_confirmados_totales": 1314,
+      "casos_confirmados_ultimos_14dias": 49,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Ribatejada",
+      "codigo_geometria": "1224  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 255.43,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Villaconejos",
+      "codigo_geometria": "1701  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 29.52,
+      "tasa_incidencia_acumulada_total": 265.64,
+      "casos_confirmados_totales": 9,
+      "fecha_informe": "2020/05/17 09:00:00"
+    },
+    {
+      "municipio_distrito": "Valdetorres de Jarama",
+      "codigo_geometria": "1646  ",
+      "tasa_incidencia_acumulada_ultimos_14dias": 0.0,
+      "tasa_incidencia_acumulada_total": 378.03,
       "casos_confirmados_totales": 17,
       "fecha_informe": "2020/05/17 09:00:00"
     },
