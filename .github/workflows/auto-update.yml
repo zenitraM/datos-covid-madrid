@@ -10,6 +10,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "Automatic update"
+        git config --local --unset-all "http.https://github.com/.extraheader"
         ./download.sh
     - name: Push changes
       uses: ad-m/github-push-action@master
