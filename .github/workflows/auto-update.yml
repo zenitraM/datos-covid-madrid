@@ -5,16 +5,14 @@ jobs:
     name: Automatic update
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@v2
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "Automatic update"
         git config --local --unset-all "http.https://github.com/.extraheader"
         ./download.sh
-        remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git remote add pusher "${remote_repo}"
-        git push pusher master
+        git push
 on:
   push:
   pull_request:
